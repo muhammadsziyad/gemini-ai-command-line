@@ -34,5 +34,8 @@ node index.js "API KEY" "YOUR QUESTION"
 - API KEY = https://aistudio.google.com/app/u/1/apikey , makesure you have access on this site.
 - YOUR QUESTION = In your brain.
 
+## SAMPLE OUTPUT
 
+![Screen Shot 2024-07-30 at 10 26 56 AM](https://github.com/user-attachments/assets/92753472-7516-4066-82a8-12709a290773)
 
+![Screen Shot 2024-07-30 at 10 14 26 AM](https://github.com/user-attachments/assets/441b4eae-7ac5-4e34-866e-7d12129e4a15)
