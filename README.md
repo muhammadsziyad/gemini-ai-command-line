@@ -1,4 +1,5 @@
 # gemini-ai-command-line
+
 By Demis Hassabis, CEO and Co-Founder of Google DeepMind, on behalf of the Gemini team
 
 AI has been the focus of my life's work, as for many of my research colleagues. Ever since programming AI for computer games as a teenager, and throughout my years as a neuroscience researcher trying to understand the workings of the brain, I’ve always believed that if we could build smarter machines, we could harness them to benefit humanity in incredible ways.
